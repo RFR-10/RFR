@@ -1,0 +1,21 @@
+
+.jumbotron{
+    padding-top: 8rem;
+    background-color:#76def3;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#about{
+    background-color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#project{
+    background-color: #76def3;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer{
+    background-color: #264448;
+    text-align: center;
+}
+section{
+padding-top: 6rem;
+}
